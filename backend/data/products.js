@@ -1,6 +1,5 @@
 const products = [
     {
-      _id: "1",
       name: "Matte Liquid Lipstick",
       image: "/images/B_makeup.jpg",
       description:
@@ -13,7 +12,6 @@ const products = [
       numReviews: 78,
     },
     {
-      _id: "2",
       name: "Radiant Foundation",
       image: "/images/best-uk.jpg",
       description:
@@ -26,7 +24,6 @@ const products = [
       numReviews: 62,
     },
     {
-      _id: "3",
       name: "Eyeshadow Palette",
       image: "/images/fara.jpeg",
       description:
@@ -39,7 +36,6 @@ const products = [
       numReviews: 89,
     },
     {
-      _id: "4",
       name: "Mascara Volume Boost",
       image: "/images/darkspot.jpg",
       description:
@@ -52,7 +48,6 @@ const products = [
       numReviews: 56,
     },
     {
-      _id: "5",
       name: "Blush & Bronzer Duo",
       image: "/images/infallible-super.jpg",
       description:
@@ -65,7 +60,6 @@ const products = [
       numReviews: 67,
     },
     {
-      _id: "6",
       name: "Makeup Brush Set",
       image: "/images/ymy1.jpg",
       description:
