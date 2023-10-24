@@ -8,7 +8,7 @@ const router=express.Router();
 router.route("/").get(getProducts);
 
 router.route("/:id").get(getProductById);
-router.use(notFound);
-router.use(errorHandler);
+// router.use(notFound);
+// router.use(errorHandler);
 
 export default router

@@ -9,7 +9,7 @@ const products = [
       price: 12.99,
       countInStock: 15,
       rating: 4.7,
-      numReviews: 78,
+      numReviews: 78
     },
     {
       name: "Radiant Foundation",
@@ -21,7 +21,7 @@ const products = [
       price: 18.99,
       countInStock: 10,
       rating: 4.5,
-      numReviews: 62,
+      numReviews: 62
     },
     {
       name: "Eyeshadow Palette",
@@ -33,7 +33,7 @@ const products = [
       price: 22.99,
       countInStock: 8,
       rating: 4.9,
-      numReviews: 89,
+      numReviews: 89
     },
     {
       name: "Mascara Volume Boost",
@@ -45,7 +45,7 @@ const products = [
       price: 14.99,
       countInStock: 12,
       rating: 4.6,
-      numReviews: 56,
+      numReviews: 56
     },
     {
       name: "Blush & Bronzer Duo",
@@ -57,7 +57,7 @@ const products = [
       price: 16.99,
       countInStock: 9,
       rating: 4.8,
-      numReviews: 67,
+      numReviews: 67
     },
     {
       name: "Makeup Brush Set",
@@ -69,7 +69,7 @@ const products = [
       price: 29.99,
       countInStock: 7,
       rating: 4.7,
-      numReviews: 72,
+      numReviews: 72
     },
   ];
   
